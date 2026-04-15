@@ -3,6 +3,9 @@
 Port Prowler is a small Python CLI utility for inspecting TCP, UDP, and stealth (SYN) port
 responses on a target host.
 
+## Author
+- Markus Stamm
+
 ## Features
 
 - Flexible port selection: single port, comma-separated list, or ranges (e.g. `20-25`).
