@@ -6,6 +6,10 @@ responses on a target host.
 ## Author
 - Markus Stamm
 
+## Educational Use Only
+
+This project is for education and authorized testing only. Scan only systems you own or have explicit permission to test.
+
 ## Features
 
 - Flexible port selection: single port, comma-separated list, or ranges (e.g. `20-25`).
